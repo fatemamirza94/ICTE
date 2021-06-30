@@ -1,1 +1,1 @@
-# Comparison-of-energy-efficiency-of-data-analysis-packages-for-statistical-analysis-in-R-Python-and-
+For the detailed report and ppt: https://drive.google.com/drive/folders/1RgQdozPnj77I7syQNQRfaKBeX_HszIHd?usp=sharing
