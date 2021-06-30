@@ -1,0 +1,4 @@
+TimeStamp (ms), Total Power (W), CPU (W), Monitor (W), Disk (W), Base (W), Application (W)
+6.37509E+13,25.4,0.3,10,0,15,0
+6.37509E+13,25.9,0.8,10,0,15,0
+6.37509E+13,25.4,0.4,10,0,15,0.1
