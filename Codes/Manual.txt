@@ -1,0 +1,4 @@
+For the R codes, copy into RStudio console and run.
+For the Python codes, copy into Spyder console and run.
+For the MATLAB codes, copy into MATLAB console and run.
+For the .ipnyb files, run in google colab.
